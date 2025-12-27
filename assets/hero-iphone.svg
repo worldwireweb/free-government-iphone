@@ -1,0 +1,27 @@
+<svg width="350" height="700" viewBox="0 0 350 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Body -->
+    <rect x="10" y="10" width="330" height="680" rx="50" fill="#1a1a1a" stroke="#4a4a4a" stroke-width="4"/>
+    
+    <!-- Screen -->
+    <rect x="25" y="25" width="300" height="650" rx="40" fill="url(#screenGradient)"/>
+    
+    <!-- Dynamic Island / Notch -->
+    <rect x="110" y="35" width="130" height="35" rx="17.5" fill="black"/>
+    
+    <!-- Screen Glare/Reflection -->
+    <path d="M25 65 C 25 25 300 25 325 65 L 325 675 C 300 675 25 675 25 675 Z" fill="url(#glareGradient)" opacity="0.4"/>
+    
+    <!-- Gradients -->
+    <defs>
+        <linearGradient id="screenGradient" x1="25" y1="25" x2="325" y2="675" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#4361ee"/>
+            <stop offset="50%" stop-color="#3a0ca3"/>
+            <stop offset="100%" stop-color="#f72585"/>
+        </linearGradient>
+        
+        <linearGradient id="glareGradient" x1="0" y1="0" x2="350" y2="700" gradientUnits="userSpaceOnUse">
+             <stop offset="0%" stop-color="white" stop-opacity="0.2"/>
+             <stop offset="100%" stop-color="transparent"/>
+        </linearGradient>
+    </defs>
+</svg>

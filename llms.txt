@@ -1,0 +1,39 @@
+# World-Wire Connect
+
+## Project Description
+World-Wire Connect is a comprehensive resource guide dedicated to helping eligible individuals navigate the U.S. government's Lifeline and Affordable Connectivity Programs (ACP). The site provides detailed information on how to qualify for and obtain free government smartphones (including various iPhone models), tablets, and laptops.
+
+## Main Sections
+
+- **Home**: https://world-wireconnect.com/
+  - Overview of the Free Government iPhone program.
+  - Eligibility checker guides.
+  - Links to specific device offers.
+
+- **About Us**: https://world-wireconnect.com/about.html
+  - Mission statement: Bridging the digital divide.
+  - Explanation of our role as an information portal.
+
+- **Contact**: https://world-wireconnect.com/contact.html
+  - Contact information and FAQ.
+
+## Key Topics
+
+### Free Government iPhones
+We provide detailed application guides for specific iPhone models, including:
+- iPhone 13 / 13 Pro Max
+- iPhone 14 / 14 Pro Max
+- iPhone 15 / 15 Pro Max
+- Older models (iPhone 6, 7, 8, X, 11, 12)
+
+### Other Devices
+- Free Government Tablets
+- Free Government Laptops
+- 5G Phones
+- Samsung Galaxy Phones
+
+### State-Specific Guides
+Detailed eligibility and provider information for states including California, Texas, Florida, New York, and many others.
+
+## Disclaimer
+World-Wire Connect is an informational website and is not a government agency. We aggregate information to help users find and apply for benefits they are entitled to.
