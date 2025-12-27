@@ -14,8 +14,8 @@
         <div class="nav-container">
             <div class="logo">World-Wire <span style="color:var(--primary);">Connect</span></div>
             <div class="nav-links">
-                <a href="index.html">Home</a>
-                <a href="index.html#models">iPhone</a>
+                <a href="free-government-iphone.html">Home</a>
+                <a href="free-government-iphone.html#models">iPhone</a>
                 <a href="free-government-samsung-phone.html">Samsung</a>
                 <a href="free-government-tablet.html">Tablet</a>
                 <a href="free-government-laptop.html">Laptop</a>
@@ -234,7 +234,8 @@
 
     <footer style="background: #1d1d1f; color: white; padding: 4rem 2rem; text-align: center;">
         <div style="margin-bottom: 2rem; display: flex; justify-content: center; flex-wrap: wrap; gap: 1.5rem;">
-            <a href="index.html" style="color: #a1a1a6; text-decoration: none; transition: color 0.3s;">Home</a>
+            <a href="free-government-iphone.html"
+                style="color: #a1a1a6; text-decoration: none; transition: color 0.3s;">Home</a>
             <a href="about.html" style="color: #a1a1a6; text-decoration: none; transition: color 0.3s;">About Us</a>
             <a href="contact.html" style="color: #a1a1a6; text-decoration: none; transition: color 0.3s;">Contact Us</a>
 
